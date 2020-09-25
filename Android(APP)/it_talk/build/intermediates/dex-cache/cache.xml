@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6b63d873d0f3394ace8b6a7d9aa194816c6253b4">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.intuit.sdp-sdp-android-1.0.3_30e2b90d8d6515e85ccec63fc62588d89a7cbb0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0_cadd980182a0dca939b7b92b7da0119ec2a2829b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b63d873d0f3394ace8b6a7d9aa194816c6253b4">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.intuit.sdp-sdp-android-1.0.3_30e2b90d8d6515e85ccec63fc62588d89a7cbb0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0_370d370284a52710ca7c58049d973c7e4c10eaf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.0_3785929b16cc41f2a04897827430cbb0cd6c1815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0_ec677ff4491c77a894761771cb721684ea80ef97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.4.1\9fa2901033b1e43a254a35bc82be281dfa7bc48f\engine.io-client-0.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9fa2901033b1e43a254a35bc82be281dfa7bc48f">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\engine.io-client-0.4.1_448f8015a5813642123cbf9b445bc76213145eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0_2f410bdd7bac3240746e6dfe275dfdda740c8b2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.4.1\9fa2901033b1e43a254a35bc82be281dfa7bc48f\engine.io-client-0.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9fa2901033b1e43a254a35bc82be281dfa7bc48f">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\engine.io-client-0.4.1_448f8015a5813642123cbf9b445bc76213145eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0_0270d35342537ea7cbc4289e7f4ca32e52e2fde5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_bc2c56574f1ceb7717ee9edf45ba69c475e02970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0_1371d020e5bdbf995fc5c5ee2c1311b5b6ede728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0_ae5b139d78abf920ed2881184b002f7006d13f7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_bc2c56574f1ceb7717ee9edf45ba69c475e02970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0_e18fcd02a78fbb7c9e47db8b914fe77b963488a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0_ea4d5fea32a8b08da2b4edfd367848761750a0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.4.1\30639ee3c8816d04b0562ddf5291ecf65d0a8951\socket.io-client-0.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30639ee3c8816d04b0562ddf5291ecf65d0a8951">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\socket.io-client-0.4.1_61857dafe1ca0e06d096c5736c673410dbe765f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.4.1\30639ee3c8816d04b0562ddf5291ecf65d0a8951\socket.io-client-0.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="30639ee3c8816d04b0562ddf5291ecf65d0a8951">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\socket.io-client-0.4.1_61857dafe1ca0e06d096c5736c673410dbe765f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_3e741125368275f44b122c284f9f0f2db129f2d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_d83581d303ce784ebada332ca0bd6bd9a4609f36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_4239300947ab4dd0f3736701fb58bb082665907a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_4239300947ab4dd0f3736701fb58bb082665907a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_d83581d303ce784ebada332ca0bd6bd9a4609f36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0_fb2bef1ae9a35071f2e0271753f839c4038e3266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.2\5e227e2d794cf680dd34fb04dd564ce58d6c764d\baseLibrary-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e227e2d794cf680dd34fb04dd564ce58d6c764d">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.2_0cbcad4869c6f26c48113d75d2b9db0a1ae15ff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0_65ad9271dd5fc9120b15d9a090ea0ffbf58c3ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.0_3785929b16cc41f2a04897827430cbb0cd6c1815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0_20a9ff57af422148e6d27360b524c4d1c0611a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0_7d0b31f2ad04a142db69e78b237488818c4d73e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\XPS15\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.2\5e227e2d794cf680dd34fb04dd564ce58d6c764d\baseLibrary-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5e227e2d794cf680dd34fb04dd564ce58d6c764d">
+        <dex dex="C:\Users\XPS15\mobile\ab\it_talk-master\it_talk-master\Android(APP)\it_talk\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.2_0cbcad4869c6f26c48113d75d2b9db0a1ae15ff7.jar" />
+    </item>
+
+</items>
